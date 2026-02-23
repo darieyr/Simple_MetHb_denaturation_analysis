@@ -1,2 +1,3 @@
 # MetHb
-Biophysical experiment with MetHb data analysis workflow
+Short and simple analysis of a biophysical experiment measuring MetHb
+
